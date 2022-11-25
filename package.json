@@ -1,0 +1,18 @@
+{
+  "name": "sqllite-db-tool",
+  "version": "1.0.0",
+  "description": "A lite tool to query SQLLite database file",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sqllite"
+  ],
+  "author": "Biswadeep Dey",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^21.3.1"
+  }
+}
